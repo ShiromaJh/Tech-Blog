@@ -1,0 +1,31 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "Techblog",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^10.0.0",
+    "express-handlebars": "^5.3.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "'",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiromaJh/Tech-Blog.git"
+  },
+  "author": "Justin Hoffman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShiromaJh/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/ShiromaJh/Tech-Blog#readme"
+}
